@@ -1,0 +1,2 @@
+reset_state
+table_set_default ipv4_lpm drop
