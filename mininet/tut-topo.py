@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 ############################################################################
-# RDS-TP3 jfpereira - Read all comments from this point on !!!!!!
+# RDS-TUT jfpereira - Read all comments from this point on !!!!!!
 ############################################################################
 # This code is given in 
 # https://github.com/p4lang/behavioral-model/blob/main/mininet/1sw_demo.py
